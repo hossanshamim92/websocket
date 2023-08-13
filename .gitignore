@@ -32,6 +32,3 @@ Thumbs.db
 
 # IDE settings specific to JetBrains (e.g., WebStorm, PhpStorm, IntelliJ)
 .idea/
-
-# Ignore the built HTML file (optional if you have build scripts)
-index.html
