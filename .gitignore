@@ -1,0 +1,37 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# User-specific files
+.npmrc
+.nvmrc
+
+# macOS files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# IDE settings specific to JetBrains (e.g., WebStorm, PhpStorm, IntelliJ)
+.idea/
+
+# Ignore the built HTML file (optional if you have build scripts)
+index.html
